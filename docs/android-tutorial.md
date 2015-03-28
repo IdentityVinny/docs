@@ -86,4 +86,4 @@ Congratulations!
 
 Are you an Android ninja?
 
-> __HEADS UP__ Help us to build an awesome [Android SDK](https://github.com/auth0/Auth0-Android) and get a free license! Checkout the issues in the GitHub project and provide feeback and/or pull requests.
+> __HEADS UP__ Help us to build an awesome [Android SDK](https://github.com/auth0/Lock.Android) and get a free license! Checkout the issues in the GitHub project and provide feeback and/or pull requests.
